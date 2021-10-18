@@ -1,0 +1,2962 @@
+{
+  "exert": [
+    "a3m-fragment02 49"
+  ],
+  "slither": [
+    "a3m-fragment02 49"
+  ],
+  "brush": [
+    "a3m-fragment02 49"
+  ],
+  "run": [
+    "a3m-fragment02 52",
+    "a3m-fragment02 55",
+    "bmw-fragment09 2628",
+    "clw-fragment01 153",
+    "a7w-fragment01 17",
+    "bmw-fragment09 2821",
+    "a1u-fragment04 156",
+    "ccw-fragment04 2052",
+    "bmw-fragment09 2635",
+    "a7w-fragment01 29",
+    "a7w-fragment01 11"
+  ],
+  "get": [
+    "kb7-fragment31 11188",
+    "ahc-fragment61 1278",
+    "kbd-fragment21 8036",
+    "a5e-fragment06 155",
+    "kbd-fragment21 8353",
+    "kbd-fragment21 8038",
+    "bmw-fragment09 2845",
+    "kb7-fragment48 13452",
+    "kbd-fragment21 7982",
+    "kb7-fragment31 11359",
+    "kb7-fragment45 13140",
+    "a1u-fragment04 58",
+    "kbh-fragment04 442",
+    "kb7-fragment31 11187",
+    "kb7-fragment48 13358",
+    "kbd-fragment21 8004",
+    "kb7-fragment48 13355",
+    "kbd-fragment21 8020",
+    "kbd-fragment21 8091",
+    "faj-fragment17 2090",
+    "kb7-fragment48 13446",
+    "a5e-fragment06 158",
+    "kbh-fragment04 362",
+    "ccw-fragment04 2075",
+    "kb7-fragment48 13549",
+    "kb7-fragment48 13670",
+    "kb7-fragment48 13370",
+    "kb7-fragment45 13046",
+    "kbh-fragment04 434",
+    "b17-fragment02 185",
+    "kb7-fragment48 13412",
+    "kb7-fragment31 11448",
+    "kbh-fragment04 379",
+    "kbh-fragment04 440",
+    "kb7-fragment45 13185",
+    "cty-fragment03 468",
+    "kb7-fragment31 11190",
+    "kb7-fragment31 11449",
+    "kbh-fragment04 407",
+    "kbd-fragment21 8061",
+    "kbd-fragment21 8040",
+    "a1u-fragment04 99",
+    "kbh-fragment04 387",
+    "ccw-fragment04 2089",
+    "kb7-fragment48 13353",
+    "bmw-fragment09 2840",
+    "faj-fragment17 1982",
+    "kbd-fragment21 7974",
+    "kb7-fragment48 13414",
+    "kb7-fragment45 13077",
+    "kb7-fragment48 13636",
+    "bmw-fragment09 2662",
+    "a3m-fragment02 54",
+    "a1u-fragment04 101",
+    "kbd-fragment21 8118",
+    "kb7-fragment48 13448",
+    "ccw-fragment04 2055",
+    "a7w-fragment01 17",
+    "kb7-fragment48 13357",
+    "kbw-fragment09 3814",
+    "kb7-fragment45 12934",
+    "kb7-fragment45 13033",
+    "kb7-fragment48 13352",
+    "ccw-fragment04 2104",
+    "kbh-fragment04 391",
+    "a1u-fragment04 93",
+    "kbd-fragment21 7995",
+    "cty-fragment03 555",
+    "kbh-fragment04 432",
+    "kb7-fragment45 13017",
+    "a31-fragment03 143"
+  ],
+  "destine": [
+    "a3m-fragment02 55"
+  ],
+  "relieve": [
+    "a3m-fragment02 55",
+    "bmw-fragment09 2571",
+    "ahd-fragment06 58"
+  ],
+  "help": [
+    "a3m-fragment02 55",
+    "clw-fragment01 141",
+    "aa3-fragment08 219",
+    "ccw-fragment04 2101",
+    "ecv-fragment05 1054"
+  ],
+  "reduce": [
+    "a3m-fragment02 55",
+    "cty-fragment03 526",
+    "ecv-fragment05 1167",
+    "b17-fragment02 205",
+    "clw-fragment01 111"
+  ],
+  "work": [
+    "cty-fragment03 532",
+    "clw-fragment01 146",
+    "cty-fragment03 559",
+    "kb7-fragment48 13635",
+    "a7w-fragment01 16",
+    "a1j-fragment33 522",
+    "cty-fragment03 549",
+    "clw-fragment01 148",
+    "a31-fragment03 144",
+    "a3m-fragment02 57",
+    "kb7-fragment48 13622"
+  ],
+  "growling": [
+    "a3m-fragment02 60"
+  ],
+  "stuck": [
+    "a3m-fragment02 60"
+  ],
+  "have": [
+    "clw-fragment01 33",
+    "kbh-fragment04 461",
+    "ecv-fragment05 1106",
+    "bmw-fragment09 2628",
+    "kb7-fragment48 13651",
+    "bmw-fragment09 2596",
+    "ecv-fragment05 1209",
+    "kb7-fragment48 13520",
+    "clw-fragment01 22",
+    "ecv-fragment05 1217",
+    "kb7-fragment31 11469",
+    "clw-fragment01 11",
+    "kb7-fragment48 13546",
+    "kb7-fragment31 11191",
+    "a31-fragment03 134",
+    "bmw-fragment09 2610",
+    "kbh-fragment04 390",
+    "ccw-fragment04 2007",
+    "kb7-fragment31 11235",
+    "ahe-fragment03 42",
+    "bmw-fragment09 2633",
+    "a7t-fragment01 9",
+    "ecv-fragment05 1140",
+    "ecv-fragment05 1145",
+    "kbh-fragment04 354",
+    "bmw-fragment09 2696",
+    "kb7-fragment45 13178",
+    "ecv-fragment05 1115",
+    "a3m-fragment02 62",
+    "kb7-fragment31 11559",
+    "bmw-fragment09 2706",
+    "kb7-fragment48 13631",
+    "bmw-fragment09 2587",
+    "faj-fragment17 1976",
+    "kbd-fragment21 8198",
+    "ecv-fragment05 1171",
+    "ccw-fragment04 2050",
+    "ecv-fragment05 1128",
+    "ccw-fragment04 2094",
+    "a7w-fragment01 60",
+    "a7w-fragment01 8",
+    "kbd-fragment21 8112",
+    "clw-fragment01 54",
+    "kbh-fragment04 424",
+    "a1u-fragment04 150",
+    "ecv-fragment05 1199",
+    "kb7-fragment45 13028",
+    "ecv-fragment05 1117",
+    "bmw-fragment09 2853",
+    "bmw-fragment09 2655",
+    "a3m-fragment02 77",
+    "ahe-fragment03 46",
+    "ecv-fragment05 1132",
+    "clw-fragment01 94",
+    "bmw-fragment09 2701",
+    "bmw-fragment09 2612",
+    "b17-fragment02 225",
+    "clw-fragment01 31",
+    "ahd-fragment06 52",
+    "ecv-fragment05 1078",
+    "bmw-fragment09 2695",
+    "a1u-fragment04 100",
+    "clw-fragment01 155",
+    "clw-fragment01 129",
+    "kbd-fragment21 8095",
+    "a31-fragment03 140",
+    "kb7-fragment48 13596",
+    "bmw-fragment09 2744",
+    "kb7-fragment45 13164",
+    "kb7-fragment48 13431",
+    "kb7-fragment48 13364",
+    "ecv-fragment05 1194",
+    "ahc-fragment61 1272",
+    "cty-fragment03 525",
+    "a3m-fragment02 80",
+    "b17-fragment02 172",
+    "ecv-fragment05 1178",
+    "bmw-fragment09 2544",
+    "kb7-fragment48 13518",
+    "ecv-fragment05 1096",
+    "bmw-fragment09 2765",
+    "kbh-fragment04 476",
+    "kbd-fragment21 8289",
+    "kb7-fragment48 13393",
+    "bmw-fragment09 2616",
+    "a1j-fragment33 505",
+    "ecv-fragment05 1110",
+    "a1u-fragment04 90",
+    "al2-fragment16 180",
+    "kbh-fragment04 372",
+    "ccw-fragment04 2121",
+    "kb7-fragment31 11431",
+    "clw-fragment01 127",
+    "a7w-fragment01 71",
+    "a31-fragment03 125",
+    "a1u-fragment04 120",
+    "kbh-fragment04 378",
+    "ecv-fragment05 1100"
+  ],
+  "do": [
+    "a7w-fragment01 58",
+    "a7w-fragment01 16",
+    "ahc-fragment61 1297",
+    "a1u-fragment04 94",
+    "kbd-fragment21 8263",
+    "clw-fragment01 119",
+    "kb7-fragment48 13632",
+    "a31-fragment03 124",
+    "kb7-fragment48 13627",
+    "a3m-fragment02 62"
+  ],
+  "hold": [
+    "al2-fragment16 179",
+    "clw-fragment01 57",
+    "faj-fragment17 1981",
+    "bmw-fragment09 2555",
+    "a36-fragment07 205",
+    "faj-fragment17 1839",
+    "ccw-fragment04 2090",
+    "b17-fragment02 235",
+    "a3m-fragment02 63"
+  ],
+  "block": [
+    "a3m-fragment02 63"
+  ],
+  "lumpen": [
+    "a3m-fragment02 63"
+  ],
+  "pick": [
+    "a5e-fragment06 160",
+    "a3m-fragment02 64",
+    "ecv-fragment05 1209",
+    "ecv-fragment05 1207",
+    "kb7-fragment31 11239",
+    "a7w-fragment01 11"
+  ],
+  "play": [
+    "a7w-fragment01 64",
+    "clw-fragment01 5",
+    "kb7-fragment48 13336",
+    "kbd-fragment21 8037",
+    "bmw-fragment09 2681",
+    "a3m-fragment02 67"
+  ],
+  "keep": [
+    "ecv-fragment05 1092",
+    "a1u-fragment04 84",
+    "ecv-fragment05 1068",
+    "aa3-fragment08 245",
+    "kb7-fragment31 11363",
+    "kb7-fragment48 13398",
+    "bmw-fragment09 2705",
+    "a7w-fragment01 31",
+    "kb7-fragment48 13664",
+    "a3m-fragment02 67",
+    "a1u-fragment04 155"
+  ],
+  "go": [
+    "kb7-fragment45 12900",
+    "kb7-fragment48 13349",
+    "bmw-fragment09 2828",
+    "clw-fragment01 7",
+    "kb7-fragment31 11409",
+    "clw-fragment01 29",
+    "a7t-fragment01 40",
+    "kbw-fragment09 3836",
+    "kb7-fragment45 13039",
+    "kb7-fragment31 11283",
+    "a1u-fragment04 155",
+    "kb7-fragment45 12970",
+    "kb7-fragment48 13323",
+    "kb7-fragment48 13631",
+    "a36-fragment07 203",
+    "a1u-fragment04 84",
+    "cty-fragment03 565",
+    "a3m-fragment02 68",
+    "a1u-fragment04 100",
+    "a7w-fragment01 27",
+    "kb7-fragment31 11301",
+    "kb7-fragment48 13606",
+    "ccw-fragment04 2090",
+    "a7w-fragment01 11",
+    "kbw-fragment09 3784",
+    "clw-fragment01 52",
+    "cty-fragment03 468",
+    "cty-fragment03 511",
+    "ahc-fragment61 1262",
+    "kb7-fragment45 13006",
+    "al2-fragment16 185",
+    "kbw-fragment09 3943",
+    "kb7-fragment48 13483",
+    "kbd-fragment21 8356",
+    "kbw-fragment09 4007",
+    "kb7-fragment45 13000",
+    "kb7-fragment48 13350",
+    "faj-fragment17 1944",
+    "kb7-fragment48 13325",
+    "bmw-fragment09 2610",
+    "kb7-fragment48 13562",
+    "kb7-fragment45 13135",
+    "a7w-fragment01 33",
+    "ccw-fragment04 2002",
+    "a1u-fragment04 123",
+    "clw-fragment01 89",
+    "kb7-fragment48 13346",
+    "kbh-fragment04 360",
+    "ecv-fragment05 1049",
+    "clw-fragment01 69",
+    "kbd-fragment21 8162",
+    "kbh-fragment04 313",
+    "kb7-fragment48 13351"
+  ],
+  "lead": [
+    "a3m-fragment02 68",
+    "cty-fragment03 480",
+    "cty-fragment03 520",
+    "ecv-fragment05 1157",
+    "a7t-fragment01 21"
+  ],
+  "fight": [
+    "a3m-fragment02 68"
+  ],
+  "assume": [
+    "cty-fragment03 567",
+    "a7w-fragment01 3",
+    "a5e-fragment06 185",
+    "b17-fragment02 214",
+    "cty-fragment03 503",
+    "ccw-fragment04 2053",
+    "a3m-fragment02 72",
+    "cty-fragment03 560"
+  ],
+  "burn": [
+    "a3m-fragment02 72"
+  ],
+  "stand": [
+    "a7w-fragment01 12",
+    "a3m-fragment02 73",
+    "ecv-fragment05 1054",
+    "a7w-fragment01 65",
+    "faj-fragment17 2131"
+  ],
+  "design": [
+    "ecv-fragment05 1057",
+    "clw-fragment01 136",
+    "a1j-fragment33 501",
+    "a3m-fragment02 76",
+    "ecv-fragment05 1161",
+    "clw-fragment01 121"
+  ],
+  "operate": [
+    "a1j-fragment33 521",
+    "a3m-fragment02 76",
+    "a7t-fragment01 38",
+    "clw-fragment01 10",
+    "clw-fragment01 160",
+    "cty-fragment03 530"
+  ],
+  "maintain": [
+    "a5e-fragment06 152",
+    "a7t-fragment01 7",
+    "b17-fragment02 209",
+    "a3m-fragment02 76"
+  ],
+  "share": [
+    "a7w-fragment01 58",
+    "b17-fragment02 219",
+    "a3m-fragment02 76"
+  ],
+  "show": [
+    "a7t-fragment01 35",
+    "cty-fragment03 484",
+    "cty-fragment03 501",
+    "a1u-fragment04 134",
+    "clw-fragment01 31",
+    "ecv-fragment05 1106",
+    "a7w-fragment01 45",
+    "a31-fragment03 119",
+    "clw-fragment01 141",
+    "ecv-fragment05 1171",
+    "bmw-fragment09 2617",
+    "b17-fragment02 230",
+    "cty-fragment03 558",
+    "clw-fragment01 93",
+    "al2-fragment16 185",
+    "clw-fragment01 145",
+    "cty-fragment03 556",
+    "ecv-fragment05 1079",
+    "cty-fragment03 525",
+    "b17-fragment02 242",
+    "a3m-fragment02 77",
+    "clw-fragment01 161",
+    "a31-fragment03 124"
+  ],
+  "consider": [
+    "a3m-fragment02 82",
+    "a3m-fragment02 78",
+    "clw-fragment01 83",
+    "ecv-fragment05 1074",
+    "clw-fragment01 118",
+    "ecv-fragment05 1077",
+    "cty-fragment03 549",
+    "a1j-fragment33 502",
+    "a1j-fragment33 496",
+    "cty-fragment03 475",
+    "b17-fragment02 246"
+  ],
+  "serve": [
+    "ecv-fragment05 1053",
+    "a3m-fragment02 85",
+    "a3m-fragment02 80",
+    "ecv-fragment05 1040",
+    "ecv-fragment05 1042"
+  ],
+  "make": [
+    "clw-fragment01 61",
+    "a36-fragment07 194",
+    "kb7-fragment31 11358",
+    "kb7-fragment48 13552",
+    "cty-fragment03 463",
+    "cty-fragment03 532",
+    "clw-fragment01 136",
+    "ccw-fragment04 2099",
+    "ecv-fragment05 1192",
+    "bmw-fragment09 2784",
+    "faj-fragment17 1939",
+    "cty-fragment03 473",
+    "clw-fragment01 75",
+    "faj-fragment17 1783",
+    "faj-fragment17 1894",
+    "bmw-fragment09 2606",
+    "ccw-fragment04 2013",
+    "cty-fragment03 494",
+    "kb7-fragment48 13631",
+    "clw-fragment01 65",
+    "clw-fragment01 85",
+    "ecv-fragment05 1171",
+    "kbh-fragment04 433",
+    "a7w-fragment01 60",
+    "bmw-fragment09 2585",
+    "clw-fragment01 109",
+    "ecv-fragment05 1163",
+    "kbh-fragment04 437",
+    "a7t-fragment01 10",
+    "bmw-fragment09 2602",
+    "cty-fragment03 466",
+    "ecv-fragment05 1081",
+    "a7w-fragment01 6",
+    "ecv-fragment05 1205",
+    "clw-fragment01 87",
+    "a7t-fragment01 42",
+    "faj-fragment17 1733",
+    "bmw-fragment09 2641",
+    "bmw-fragment09 2771",
+    "aa3-fragment08 220",
+    "bmw-fragment09 2695",
+    "cty-fragment03 549",
+    "clw-fragment01 17",
+    "ahc-fragment61 1284",
+    "bmw-fragment09 2812",
+    "aa3-fragment08 216",
+    "cty-fragment03 474",
+    "kbd-fragment21 8241",
+    "a3m-fragment02 80",
+    "clw-fragment01 82",
+    "kb7-fragment45 13190",
+    "a7w-fragment01 47",
+    "clw-fragment01 76",
+    "a7w-fragment01 18",
+    "bmw-fragment09 2828",
+    "cty-fragment03 501",
+    "clw-fragment01 139",
+    "cty-fragment03 490",
+    "kb7-fragment31 11369",
+    "faj-fragment17 1842",
+    "kb7-fragment31 11450",
+    "clw-fragment01 44",
+    "a1u-fragment04 80",
+    "clw-fragment01 95",
+    "cty-fragment03 475",
+    "ecv-fragment05 1103",
+    "cty-fragment03 558",
+    "clw-fragment01 100",
+    "a31-fragment03 138",
+    "cty-fragment03 479",
+    "ecv-fragment05 1167",
+    "cty-fragment03 554",
+    "kbd-fragment21 8030",
+    "faj-fragment17 1753",
+    "clw-fragment01 146",
+    "kb7-fragment31 11445",
+    "bmw-fragment09 2861"
+  ],
+  "mean": [
+    "clw-fragment01 54",
+    "clw-fragment01 116",
+    "bmw-fragment09 2771",
+    "a3m-fragment02 84",
+    "aa3-fragment08 220",
+    "aa3-fragment08 241",
+    "clw-fragment01 117",
+    "clw-fragment01 134",
+    "cty-fragment03 523",
+    "cty-fragment03 520",
+    "kbd-fragment21 8203",
+    "faj-fragment17 2127",
+    "faj-fragment17 1971",
+    "faj-fragment17 2047",
+    "ccw-fragment04 2057",
+    "ccw-fragment04 2070"
+  ],
+  "slip": [
+    "a3m-fragment02 85"
+  ],
+  "head": [
+    "a7t-fragment01 17",
+    "a3m-fragment02 85",
+    "a1j-fragment33 508",
+    "a1j-fragment33 512",
+    "a7t-fragment01 18",
+    "a7w-fragment01 8"
+  ],
+  "ageing": [
+    "a3m-fragment02 86"
+  ],
+  "rasping": [
+    "a3m-fragment02 86"
+  ],
+  "perform": [
+    "a3m-fragment02 87"
+  ],
+  "spread": [
+    "kb7-fragment45 12922",
+    "a3m-fragment02 88"
+  ],
+  "suggest": [
+    "cty-fragment03 557",
+    "b17-fragment02 207",
+    "clw-fragment01 41",
+    "b17-fragment02 216",
+    "clw-fragment01 38",
+    "a36-fragment07 181",
+    "cty-fragment03 492",
+    "a7w-fragment01 68",
+    "clw-fragment01 104",
+    "a5e-fragment06 197",
+    "ccw-fragment04 2041"
+  ],
+  "float": [
+    "a36-fragment07 182"
+  ],
+  "support": [
+    "b17-fragment02 239",
+    "a36-fragment07 182",
+    "faj-fragment17 2094"
+  ],
+  "open": [
+    "cty-fragment03 563",
+    "ahe-fragment03 35",
+    "a7w-fragment01 56",
+    "bmw-fragment09 2697",
+    "a36-fragment07 183"
+  ],
+  "project": [
+    "a36-fragment07 183",
+    "cty-fragment03 504"
+  ],
+  "cover": [
+    "ecv-fragment05 1092",
+    "a7w-fragment01 38",
+    "clw-fragment01 107",
+    "clw-fragment01 138",
+    "clw-fragment01 108",
+    "kbh-fragment04 399",
+    "kbh-fragment04 398",
+    "b17-fragment02 176",
+    "kbh-fragment04 391",
+    "a1u-fragment04 70",
+    "a36-fragment07 183",
+    "kbh-fragment04 397"
+  ],
+  "aim": [
+    "cty-fragment03 517",
+    "a1u-fragment04 81",
+    "cty-fragment03 498",
+    "a36-fragment07 183"
+  ],
+  "explore": [
+    "a5e-fragment06 196",
+    "a36-fragment07 183"
+  ],
+  "describe": [
+    "clw-fragment01 53",
+    "a36-fragment07 183"
+  ],
+  "present": [
+    "clw-fragment01 102",
+    "clw-fragment01 160",
+    "a36-fragment07 186",
+    "clw-fragment01 71"
+  ],
+  "fill": [
+    "a36-fragment07 186",
+    "faj-fragment17 1762"
+  ],
+  "find": [
+    "clw-fragment01 123",
+    "b17-fragment02 202",
+    "ecv-fragment05 1073",
+    "cty-fragment03 469",
+    "ccw-fragment04 2012",
+    "clw-fragment01 33",
+    "ecv-fragment05 1159",
+    "b17-fragment02 196",
+    "faj-fragment17 2025",
+    "bmw-fragment09 2612",
+    "b17-fragment02 226",
+    "aa3-fragment08 227",
+    "a36-fragment07 188",
+    "aa3-fragment08 250",
+    "cty-fragment03 559",
+    "clw-fragment01 166",
+    "b17-fragment02 206",
+    "aa3-fragment08 234",
+    "b17-fragment02 211",
+    "a1u-fragment04 128",
+    "ahc-fragment61 1261",
+    "ecv-fragment05 1074",
+    "clw-fragment01 21",
+    "a1u-fragment04 70",
+    "b17-fragment02 205"
+  ],
+  "dominate": [
+    "a36-fragment07 191",
+    "clw-fragment01 48"
+  ],
+  "draw": [
+    "cty-fragment03 532",
+    "a7w-fragment01 69",
+    "ecv-fragment05 1095",
+    "faj-fragment17 1758",
+    "a36-fragment07 192"
+  ],
+  "carry": [
+    "a36-fragment07 192",
+    "a7w-fragment01 42",
+    "cty-fragment03 526",
+    "a7w-fragment01 41"
+  ],
+  "conduct": [
+    "a7t-fragment01 12",
+    "ecv-fragment05 1169",
+    "a36-fragment07 193",
+    "cty-fragment03 556"
+  ],
+  "join": [
+    "kb7-fragment48 13475",
+    "a36-fragment07 195",
+    "clw-fragment01 35",
+    "a3e-fragment02 13"
+  ],
+  "wove": [
+    "a36-fragment07 196",
+    "cty-fragment03 483"
+  ],
+  "insert": [
+    "a36-fragment07 197"
+  ],
+  "capture": [
+    "a36-fragment07 199"
+  ],
+  "give": [
+    "a31-fragment03 123",
+    "a7w-fragment01 47",
+    "kbh-fragment04 381",
+    "kb7-fragment45 13181",
+    "cty-fragment03 466",
+    "ccw-fragment04 1999",
+    "a5e-fragment06 162",
+    "ccw-fragment04 2118",
+    "kbh-fragment04 354",
+    "kb7-fragment48 13632",
+    "ecv-fragment05 1202",
+    "ccw-fragment04 2054",
+    "a31-fragment03 135",
+    "a3e-fragment02 20",
+    "aa3-fragment08 229",
+    "ecv-fragment05 1162",
+    "clw-fragment01 35",
+    "bmw-fragment09 2741",
+    "ecv-fragment05 1082",
+    "kb7-fragment45 12923",
+    "a1j-fragment33 519",
+    "a7t-fragment01 37",
+    "kbh-fragment04 434",
+    "al2-fragment16 184",
+    "aa3-fragment08 235",
+    "al2-fragment16 180",
+    "ccw-fragment04 2115",
+    "clw-fragment01 93",
+    "ecv-fragment05 1105",
+    "a5e-fragment06 186",
+    "a36-fragment07 202",
+    "aa3-fragment08 219",
+    "kb7-fragment31 11252",
+    "a31-fragment03 121",
+    "clw-fragment01 32",
+    "ecv-fragment05 1211",
+    "ahd-fragment06 54",
+    "ecv-fragment05 1117",
+    "a7w-fragment01 14",
+    "bmw-fragment09 2602",
+    "a36-fragment07 201",
+    "a7w-fragment01 67",
+    "bmw-fragment09 2725",
+    "a1j-fragment33 514",
+    "kbh-fragment04 360",
+    "ccw-fragment04 2120"
+  ],
+  "come": [
+    "a7t-fragment01 5",
+    "kb7-fragment45 13004",
+    "a1u-fragment04 61",
+    "ccw-fragment04 2110",
+    "kb7-fragment31 11260",
+    "kbh-fragment04 296",
+    "kb7-fragment48 13358",
+    "a1u-fragment04 152",
+    "a31-fragment03 119",
+    "a7w-fragment01 3",
+    "kbh-fragment04 471",
+    "kb7-fragment31 11344",
+    "a1u-fragment04 100",
+    "a5e-fragment06 173",
+    "ccw-fragment04 2090",
+    "a5e-fragment06 192",
+    "kb7-fragment48 13390",
+    "kbw-fragment09 3953",
+    "cty-fragment03 505",
+    "kb7-fragment31 11279",
+    "kb7-fragment45 13072",
+    "ccw-fragment04 2059",
+    "clw-fragment01 110",
+    "kbw-fragment09 3797",
+    "kb7-fragment45 13037",
+    "a36-fragment07 206",
+    "bmw-fragment09 2689",
+    "faj-fragment17 2029",
+    "a5e-fragment06 163",
+    "kb7-fragment48 13359",
+    "ccw-fragment04 2037",
+    "a1u-fragment04 97",
+    "a7w-fragment01 14",
+    "kbd-fragment21 8226",
+    "bmw-fragment09 2591",
+    "bmw-fragment09 2816",
+    "clw-fragment01 161",
+    "aa3-fragment08 224",
+    "a7w-fragment01 24",
+    "kbh-fragment04 460",
+    "kb7-fragment48 13531",
+    "ecv-fragment05 1046",
+    "cty-fragment03 522",
+    "clw-fragment01 26",
+    "ecv-fragment05 1118",
+    "clw-fragment01 158",
+    "kb7-fragment48 13627",
+    "ecv-fragment05 1100"
+  ],
+  "progress": [
+    "ahc-fragment61 1252",
+    "clw-fragment01 56",
+    "cty-fragment03 480",
+    "a7w-fragment01 37"
+  ],
+  "look": [
+    "ahe-fragment03 44",
+    "bmw-fragment09 2588",
+    "kbd-fragment21 8026",
+    "ecv-fragment05 1123",
+    "bmw-fragment09 2724",
+    "kb7-fragment31 11243",
+    "bmw-fragment09 2717",
+    "kbd-fragment21 8124",
+    "b17-fragment02 188",
+    "al2-fragment16 186",
+    "ahc-fragment61 1254",
+    "b17-fragment02 237",
+    "b17-fragment02 185",
+    "al2-fragment16 177",
+    "bmw-fragment09 2551",
+    "bmw-fragment09 2711",
+    "ecv-fragment05 1214",
+    "b17-fragment02 222",
+    "bmw-fragment09 2627",
+    "al2-fragment16 183",
+    "a1u-fragment04 62"
+  ],
+  "ignore": [
+    "b17-fragment02 200",
+    "ahc-fragment61 1262"
+  ],
+  "lace": [
+    "ahc-fragment61 1263"
+  ],
+  "border": [
+    "ahc-fragment61 1264"
+  ],
+  "bubble": [
+    "ahc-fragment61 1264",
+    "bmw-fragment09 2603"
+  ],
+  "take": [
+    "cty-fragment03 557",
+    "kb7-fragment31 11253",
+    "clw-fragment01 114",
+    "cty-fragment03 567",
+    "bmw-fragment09 2630",
+    "faj-fragment17 1890",
+    "ccw-fragment04 2012",
+    "clw-fragment01 120",
+    "kb7-fragment45 12968",
+    "faj-fragment17 1823",
+    "faj-fragment17 2024",
+    "ecv-fragment05 1119",
+    "a1j-fragment33 517",
+    "ccw-fragment04 2032",
+    "cty-fragment03 539",
+    "a7w-fragment01 34",
+    "kbh-fragment04 392",
+    "a1u-fragment04 152",
+    "cty-fragment03 502",
+    "aa3-fragment08 248",
+    "ahd-fragment06 49",
+    "kb7-fragment48 13559",
+    "bmw-fragment09 2717",
+    "kbh-fragment04 414",
+    "bmw-fragment09 2608",
+    "aa3-fragment08 215",
+    "kb7-fragment48 13606",
+    "clw-fragment01 19",
+    "kb7-fragment45 13106",
+    "faj-fragment17 1947",
+    "faj-fragment17 1972",
+    "b17-fragment02 213",
+    "cty-fragment03 475",
+    "cty-fragment03 558",
+    "faj-fragment17 2014",
+    "clw-fragment01 14",
+    "faj-fragment17 1954",
+    "clw-fragment01 28",
+    "bmw-fragment09 2638",
+    "a5e-fragment06 154",
+    "al2-fragment16 176",
+    "a31-fragment03 147",
+    "a7t-fragment01 25",
+    "ecv-fragment05 1187",
+    "cty-fragment03 492",
+    "ecv-fragment05 1086",
+    "bmw-fragment09 2607",
+    "cty-fragment03 471",
+    "a5e-fragment06 160",
+    "kb7-fragment48 13558",
+    "faj-fragment17 1749",
+    "clw-fragment01 57",
+    "cty-fragment03 556",
+    "kb7-fragment45 13090",
+    "ccw-fragment04 2038",
+    "bmw-fragment09 2760",
+    "faj-fragment17 2040",
+    "clw-fragment01 34",
+    "ahc-fragment61 1267",
+    "a7t-fragment01 12",
+    "a7t-fragment01 39",
+    "cty-fragment03 560",
+    "b17-fragment02 205",
+    "clw-fragment01 122"
+  ],
+  "drift": [
+    "ahc-fragment61 1268",
+    "clw-fragment01 96",
+    "a1u-fragment04 89"
+  ],
+  "follow": [
+    "cty-fragment03 476",
+    "cty-fragment03 540",
+    "b17-fragment02 241",
+    "cty-fragment03 464",
+    "aa3-fragment08 236",
+    "ahc-fragment61 1268",
+    "ecv-fragment05 1091",
+    "aa3-fragment08 227",
+    "b17-fragment02 177",
+    "ecv-fragment05 1082",
+    "clw-fragment01 161"
+  ],
+  "twist": [
+    "ahc-fragment61 1268"
+  ],
+  "mark": [
+    "ahc-fragment61 1268",
+    "b17-fragment02 223",
+    "a7t-fragment01 26",
+    "cty-fragment03 537"
+  ],
+  "proclaim": [
+    "ahc-fragment61 1268"
+  ],
+  "alga": [
+    "ahc-fragment61 1268"
+  ],
+  "disturb": [
+    "ahc-fragment61 1268"
+  ],
+  "raise": [
+    "a7t-fragment01 19",
+    "b17-fragment02 183",
+    "ahc-fragment61 1269"
+  ],
+  "sit": [
+    "ahc-fragment61 1270"
+  ],
+  "quash": [
+    "ahc-fragment61 1274"
+  ],
+  "point": [
+    "ahc-fragment61 1276",
+    "ecv-fragment05 1211",
+    "a1u-fragment04 126"
+  ],
+  "stare": [
+    "ahc-fragment61 1276"
+  ],
+  "wriggling": [
+    "ahc-fragment61 1279"
+  ],
+  "half": [
+    "ahc-fragment61 1279"
+  ],
+  "bring": [
+    "aa3-fragment08 246",
+    "ahc-fragment61 1280",
+    "cty-fragment03 537",
+    "clw-fragment01 154"
+  ],
+  "hug": [
+    "ahc-fragment61 1281"
+  ],
+  "change": [
+    "clw-fragment01 133",
+    "clw-fragment01 127",
+    "a31-fragment03 116",
+    "a7t-fragment01 28",
+    "clw-fragment01 137",
+    "clw-fragment01 94",
+    "ahc-fragment61 1284",
+    "a5e-fragment06 150",
+    "clw-fragment01 105"
+  ],
+  "saucer": [
+    "ahc-fragment61 1288"
+  ],
+  "wax": [
+    "ahc-fragment61 1289"
+  ],
+  "unassuming": [
+    "ahc-fragment61 1293"
+  ],
+  "grimace": [
+    "ahc-fragment61 1295"
+  ],
+  "bear": [
+    "cty-fragment03 517",
+    "a1u-fragment04 84",
+    "faj-fragment17 2110",
+    "a1j-fragment33 516",
+    "a31-fragment03 120",
+    "bmw-fragment09 2770"
+  ],
+  "ask": [
+    "a31-fragment03 122",
+    "a7t-fragment01 8",
+    "clw-fragment01 143",
+    "bmw-fragment09 2655"
+  ],
+  "fall": [
+    "a31-fragment03 125"
+  ],
+  "buy": [
+    "a31-fragment03 130",
+    "kbd-fragment21 7988"
+  ],
+  "occur": [
+    "ecv-fragment05 1059",
+    "a31-fragment03 135",
+    "ecv-fragment05 1082"
+  ],
+  "fail": [
+    "a31-fragment03 136",
+    "aa3-fragment08 226",
+    "al2-fragment16 179",
+    "a1u-fragment04 61",
+    "a7w-fragment01 17",
+    "a5e-fragment06 190",
+    "a5e-fragment06 195"
+  ],
+  "comply": [
+    "a31-fragment03 136"
+  ],
+  "lose": [
+    "aa3-fragment08 232",
+    "aa3-fragment08 250",
+    "a31-fragment03 138",
+    "cty-fragment03 557",
+    "bmw-fragment09 2591",
+    "ecv-fragment05 1116",
+    "kb7-fragment48 13559",
+    "kbh-fragment04 365",
+    "kb7-fragment48 13538",
+    "ccw-fragment04 2110",
+    "a7t-fragment01 39",
+    "bmw-fragment09 2778",
+    "kb7-fragment48 13540"
+  ],
+  "collect": [
+    "kb7-fragment48 13358",
+    "a31-fragment03 139"
+  ],
+  "reckon": [
+    "ccw-fragment04 2051",
+    "a5e-fragment06 163",
+    "kb7-fragment48 13490",
+    "a31-fragment03 139"
+  ],
+  "decide": [
+    "a1u-fragment04 70",
+    "a7t-fragment01 16",
+    "a7w-fragment01 64",
+    "a31-fragment03 143"
+  ],
+  "say": [
+    "ecv-fragment05 1142",
+    "ecv-fragment05 1151",
+    "cty-fragment03 479",
+    "cty-fragment03 463",
+    "kb7-fragment48 13336",
+    "ecv-fragment05 1070",
+    "ecv-fragment05 1080",
+    "ecv-fragment05 1094",
+    "ecv-fragment05 1121",
+    "ecv-fragment05 1200",
+    "ahe-fragment03 42",
+    "ecv-fragment05 1206",
+    "a1j-fragment33 524",
+    "ecv-fragment05 1217",
+    "a31-fragment03 143"
+  ],
+  "rob": [
+    "a31-fragment03 145"
+  ],
+  "hide": [
+    "a31-fragment03 146"
+  ],
+  "reach": [
+    "kb7-fragment48 13558",
+    "clw-fragment01 76",
+    "a31-fragment03 148",
+    "clw-fragment01 89",
+    "clw-fragment01 96"
+  ],
+  "earn": [
+    "aa3-fragment08 222"
+  ],
+  "collapse": [
+    "aa3-fragment08 223"
+  ],
+  "put": [
+    "a7t-fragment01 35",
+    "kb7-fragment45 13193",
+    "kb7-fragment48 13363",
+    "kb7-fragment48 13366",
+    "kb7-fragment48 13400",
+    "a7w-fragment01 34",
+    "bmw-fragment09 2783",
+    "aa3-fragment08 225",
+    "ecv-fragment05 1171",
+    "aa3-fragment08 237",
+    "kb7-fragment48 13512",
+    "a7w-fragment01 25",
+    "kb7-fragment48 13513",
+    "cty-fragment03 472",
+    "kb7-fragment45 13169",
+    "kbd-fragment21 8138",
+    "kbd-fragment21 8003",
+    "a7w-fragment01 8",
+    "kbd-fragment21 8010",
+    "clw-fragment01 52",
+    "kb7-fragment45 13078",
+    "bmw-fragment09 2667",
+    "kbh-fragment04 377",
+    "bmw-fragment09 2689",
+    "cty-fragment03 532",
+    "b17-fragment02 191",
+    "faj-fragment17 1994",
+    "a7t-fragment01 20",
+    "kbh-fragment04 413",
+    "b17-fragment02 204",
+    "bmw-fragment09 2556",
+    "a1u-fragment04 118"
+  ],
+  "transfer": [
+    "aa3-fragment08 226",
+    "a1j-fragment33 526"
+  ],
+  "face": [
+    "bmw-fragment09 2662",
+    "bmw-fragment09 2549",
+    "clw-fragment01 41",
+    "a7w-fragment01 24",
+    "b17-fragment02 216",
+    "ecv-fragment05 1210",
+    "a7t-fragment01 16",
+    "aa3-fragment08 228",
+    "a7t-fragment01 27",
+    "a1u-fragment04 57"
+  ],
+  "allow": [
+    "ecv-fragment05 1152",
+    "ecv-fragment05 1160",
+    "al2-fragment16 176",
+    "a7w-fragment01 49",
+    "aa3-fragment08 229",
+    "cty-fragment03 545",
+    "clw-fragment01 82"
+  ],
+  "feel": [
+    "kb7-fragment31 11392",
+    "kb7-fragment31 11356",
+    "ccw-fragment04 2132",
+    "kb7-fragment31 11427",
+    "kb7-fragment31 11424",
+    "clw-fragment01 31",
+    "bmw-fragment09 2567",
+    "kb7-fragment48 13481",
+    "a7w-fragment01 77",
+    "kb7-fragment31 11352",
+    "kb7-fragment31 11393",
+    "aa3-fragment08 231",
+    "aa3-fragment08 240",
+    "kb7-fragment31 11426",
+    "al2-fragment16 186",
+    "kbh-fragment04 492",
+    "b17-fragment02 237",
+    "kb7-fragment31 11428",
+    "a1u-fragment04 78",
+    "kb7-fragment31 11431",
+    "kb7-fragment31 11532",
+    "aa3-fragment08 230",
+    "cty-fragment03 473"
+  ],
+  "ease": [
+    "aa3-fragment08 234"
+  ],
+  "avoid": [
+    "cty-fragment03 535",
+    "aa3-fragment08 234",
+    "a7w-fragment01 51"
+  ],
+  "return": [
+    "aa3-fragment08 235",
+    "cty-fragment03 559",
+    "cty-fragment03 468",
+    "aa3-fragment08 237",
+    "al2-fragment16 184"
+  ],
+  "see": [
+    "ecv-fragment05 1136",
+    "kb7-fragment31 11433",
+    "b17-fragment02 197",
+    "bmw-fragment09 2856",
+    "kb7-fragment45 13039",
+    "b17-fragment02 221",
+    "kb7-fragment31 11423",
+    "ccw-fragment04 2061",
+    "cty-fragment03 494",
+    "cty-fragment03 460",
+    "kbd-fragment21 8362",
+    "kbd-fragment21 8352",
+    "bmw-fragment09 2617",
+    "clw-fragment01 157",
+    "kbw-fragment09 3787",
+    "clw-fragment01 28",
+    "kb7-fragment31 11332",
+    "ecv-fragment05 1147",
+    "faj-fragment17 1895",
+    "ecv-fragment05 1077",
+    "b17-fragment02 222",
+    "clw-fragment01 30",
+    "ecv-fragment05 1044",
+    "cty-fragment03 510",
+    "kbd-fragment21 8037",
+    "clw-fragment01 101",
+    "clw-fragment01 72",
+    "kb7-fragment31 11326",
+    "clw-fragment01 9",
+    "clw-fragment01 151",
+    "clw-fragment01 159",
+    "cty-fragment03 521",
+    "kb7-fragment45 12895",
+    "aa3-fragment08 236",
+    "ecv-fragment05 1079",
+    "clw-fragment01 21",
+    "bmw-fragment09 2799",
+    "ecv-fragment05 1088",
+    "kb7-fragment45 12987",
+    "kb7-fragment45 13033",
+    "clw-fragment01 158",
+    "ecv-fragment05 1161",
+    "clw-fragment01 165",
+    "kb7-fragment45 13017"
+  ],
+  "stay": [
+    "aa3-fragment08 236",
+    "clw-fragment01 90"
+  ],
+  "encourage": [
+    "clw-fragment01 151",
+    "aa3-fragment08 237"
+  ],
+  "plan": [
+    "ccw-fragment04 2050",
+    "clw-fragment01 156",
+    "aa3-fragment08 238"
+  ],
+  "pursue": [
+    "kbh-fragment04 377",
+    "aa3-fragment08 241",
+    "kbh-fragment04 376",
+    "a7w-fragment01 44"
+  ],
+  "leave": [
+    "ecv-fragment05 1126",
+    "kbd-fragment21 8004",
+    "bmw-fragment09 2788",
+    "bmw-fragment09 2794",
+    "kb7-fragment48 13327",
+    "a1j-fragment33 518",
+    "clw-fragment01 10",
+    "a7w-fragment01 66",
+    "aa3-fragment08 241",
+    "bmw-fragment09 2849",
+    "bmw-fragment09 2806",
+    "ecv-fragment05 1199",
+    "cty-fragment03 470",
+    "bmw-fragment09 2780",
+    "a7t-fragment01 34",
+    "faj-fragment17 1648",
+    "bmw-fragment09 2798",
+    "kb7-fragment45 13048",
+    "a7w-fragment01 2"
+  ],
+  "form": [
+    "a7t-fragment01 5",
+    "ecv-fragment05 1121",
+    "aa3-fragment08 242",
+    "cty-fragment03 562",
+    "ecv-fragment05 1149",
+    "ecv-fragment05 1078"
+  ],
+  "represent": [
+    "aa3-fragment08 242"
+  ],
+  "co": [
+    "a1j-fragment33 502",
+    "aa3-fragment08 242"
+  ],
+  "talk": [
+    "ecv-fragment05 1092",
+    "aa3-fragment08 244",
+    "a7t-fragment01 9",
+    "ecv-fragment05 1133"
+  ],
+  "guide": [
+    "aa3-fragment08 244",
+    "ecv-fragment05 1047"
+  ],
+  "wind": [
+    "aa3-fragment08 247"
+  ],
+  "gamble": [
+    "aa3-fragment08 250",
+    "aa3-fragment08 251"
+  ],
+  "throw": [
+    "kbh-fragment04 381",
+    "a1j-fragment33 494"
+  ],
+  "turn": [
+    "ahd-fragment06 55",
+    "faj-fragment17 1648",
+    "cty-fragment03 505",
+    "a5e-fragment06 179",
+    "bmw-fragment09 2576",
+    "ecv-fragment05 1058",
+    "a5e-fragment06 158",
+    "cty-fragment03 561",
+    "a7t-fragment01 33",
+    "bmw-fragment09 2783",
+    "a1j-fragment33 496",
+    "a7t-fragment01 11",
+    "a5e-fragment06 199",
+    "ecv-fragment05 1052",
+    "ccw-fragment04 2109"
+  ],
+  "scatter": [
+    "a1j-fragment33 497"
+  ],
+  "set": [
+    "a7t-fragment01 1",
+    "cty-fragment03 540",
+    "a1j-fragment33 497",
+    "a1j-fragment33 508",
+    "a7w-fragment01 17",
+    "bmw-fragment09 2777",
+    "cty-fragment03 495",
+    "bmw-fragment09 2686",
+    "kb7-fragment48 13361"
+  ],
+  "escape": [
+    "a1j-fragment33 499"
+  ],
+  "upset": [
+    "a1j-fragment33 500"
+  ],
+  "inherit": [
+    "a1j-fragment33 500"
+  ],
+  "act": [
+    "ecv-fragment05 1115",
+    "a1j-fragment33 501",
+    "a1j-fragment33 512"
+  ],
+  "contemplate": [
+    "a1j-fragment33 503"
+  ],
+  "rebuild": [
+    "a1j-fragment33 503"
+  ],
+  "add": [
+    "ecv-fragment05 1145",
+    "al2-fragment16 180",
+    "ecv-fragment05 1168",
+    "bmw-fragment09 2739",
+    "a1j-fragment33 505"
+  ],
+  "seek": [
+    "a7t-fragment01 20",
+    "a1j-fragment33 507",
+    "a1j-fragment33 505",
+    "a1j-fragment33 506"
+  ],
+  "knock": [
+    "kbd-fragment21 8313",
+    "a1j-fragment33 506"
+  ],
+  "challenge": [
+    "a1j-fragment33 507",
+    "clw-fragment01 119"
+  ],
+  "determ": [
+    "a1j-fragment33 509"
+  ],
+  "override": [
+    "a1j-fragment33 511"
+  ],
+  "antagonise": [
+    "a1j-fragment33 511"
+  ],
+  "watch": [
+    "a1j-fragment33 513"
+  ],
+  "require": [
+    "a1j-fragment33 515"
+  ],
+  "extend": [
+    "a1j-fragment33 516",
+    "a7t-fragment01 22",
+    "a7w-fragment01 76",
+    "clw-fragment01 24"
+  ],
+  "split": [
+    "ccw-fragment04 1994",
+    "a1j-fragment33 526"
+  ],
+  "recommend": [
+    "a1j-fragment33 527"
+  ],
+  "merge": [
+    "a1j-fragment33 528"
+  ],
+  "replace": [
+    "cty-fragment03 564",
+    "a1j-fragment33 530",
+    "a1j-fragment33 528"
+  ],
+  "administer": [
+    "a1j-fragment33 532"
+  ],
+  "itching": [
+    "a3e-fragment02 10"
+  ],
+  "snip": [
+    "a3e-fragment02 10"
+  ],
+  "overpowering": [
+    "a3e-fragment02 10"
+  ],
+  "relish": [
+    "a3e-fragment02 17"
+  ],
+  "feed": [
+    "a3e-fragment02 22"
+  ],
+  "rise": [
+    "al2-fragment16 176",
+    "al2-fragment16 183"
+  ],
+  "discount": [
+    "al2-fragment16 178"
+  ],
+  "opening": [
+    "a7w-fragment01 53",
+    "al2-fragment16 179"
+  ],
+  "hit": [
+    "al2-fragment16 180",
+    "a5e-fragment06 160"
+  ],
+  "gain": [
+    "al2-fragment16 180",
+    "ecv-fragment05 1212"
+  ],
+  "stop": [
+    "al2-fragment16 181",
+    "kbw-fragment09 3810"
+  ],
+  "drop": [
+    "a1u-fragment04 63",
+    "cty-fragment03 476",
+    "kb7-fragment31 11358",
+    "al2-fragment16 182",
+    "kb7-fragment45 13162"
+  ],
+  "match": [
+    "a5e-fragment06 161",
+    "cty-fragment03 513",
+    "al2-fragment16 183"
+  ],
+  "pay": [
+    "al2-fragment16 183"
+  ],
+  "afford": [
+    "bmw-fragment09 2566",
+    "al2-fragment16 183"
+  ],
+  "repair": [
+    "al2-fragment16 183"
+  ],
+  "sell": [
+    "al2-fragment16 185"
+  ],
+  "need": [
+    "al2-fragment16 185"
+  ],
+  "start": [
+    "al2-fragment16 186",
+    "kb7-fragment45 13046",
+    "kb7-fragment45 13039"
+  ],
+  "emerge": [
+    "a7w-fragment01 6"
+  ],
+  "ill": [
+    "a7w-fragment01 8"
+  ],
+  "avert": [
+    "a7w-fragment01 8"
+  ],
+  "cope": [
+    "a7t-fragment01 36",
+    "a7w-fragment01 8"
+  ],
+  "strike": [
+    "clw-fragment01 154",
+    "a7w-fragment01 8"
+  ],
+  "compromise": [
+    "a7w-fragment01 8"
+  ],
+  "place": [
+    "a7w-fragment01 9"
+  ],
+  "permit": [
+    "a7w-fragment01 9",
+    "clw-fragment01 66"
+  ],
+  "nail": [
+    "a7w-fragment01 10"
+  ],
+  "inbred": [
+    "a7w-fragment01 11"
+  ],
+  "symbolise": [
+    "a7w-fragment01 11"
+  ],
+  "cut": [
+    "bmw-fragment09 2773",
+    "faj-fragment17 2099",
+    "kb7-fragment48 13361",
+    "clw-fragment01 88",
+    "a1u-fragment04 147",
+    "a7w-fragment01 11"
+  ],
+  "lift": [
+    "a7w-fragment01 14",
+    "bmw-fragment09 2590"
+  ],
+  "break": [
+    "a7w-fragment01 14",
+    "cty-fragment03 528",
+    "faj-fragment17 2102",
+    "a7w-fragment01 64",
+    "cty-fragment03 461",
+    "bmw-fragment09 2746",
+    "b17-fragment02 213"
+  ],
+  "exceed": [
+    "a7w-fragment01 14"
+  ],
+  "clear": [
+    "a7w-fragment01 14",
+    "kb7-fragment45 13051"
+  ],
+  "fix": [
+    "a7w-fragment01 16",
+    "ecv-fragment05 1085"
+  ],
+  "attest": [
+    "a7w-fragment01 16"
+  ],
+  "reflect": [
+    "bmw-fragment09 2591",
+    "ecv-fragment05 1109",
+    "a7w-fragment01 18",
+    "a7w-fragment01 16",
+    "a7w-fragment01 17",
+    "clw-fragment01 131"
+  ],
+  "farsighted": [
+    "a7w-fragment01 16"
+  ],
+  "living": [
+    "a7w-fragment01 16"
+  ],
+  "compound": [
+    "a7w-fragment01 17"
+  ],
+  "shift": [
+    "cty-fragment03 488",
+    "cty-fragment03 467",
+    "a7w-fragment01 17"
+  ],
+  "demonstrate": [
+    "cty-fragment03 538",
+    "a7w-fragment01 17"
+  ],
+  "tighten": [
+    "a7w-fragment01 23"
+  ],
+  "separate": [
+    "ecv-fragment05 1059",
+    "a7w-fragment01 43",
+    "cty-fragment03 569",
+    "a7w-fragment01 28"
+  ],
+  "accuse": [
+    "a7w-fragment01 29"
+  ],
+  "pretend": [
+    "a7w-fragment01 29",
+    "a7w-fragment01 33"
+  ],
+  "signal": [
+    "a7w-fragment01 32"
+  ],
+  "suspend": [
+    "a7w-fragment01 32",
+    "a7t-fragment01 24"
+  ],
+  "compare": [
+    "a7w-fragment01 35"
+  ],
+  "ally": [
+    "a7w-fragment01 47"
+  ],
+  "note": [
+    "a7t-fragment01 14",
+    "a7w-fragment01 48",
+    "ecv-fragment05 1160"
+  ],
+  "duck": [
+    "a7w-fragment01 51"
+  ],
+  "scrap": [
+    "a7w-fragment01 60"
+  ],
+  "contrast": [
+    "a7w-fragment01 60"
+  ],
+  "touch": [
+    "a7w-fragment01 62"
+  ],
+  "communicate": [
+    "a7w-fragment01 65"
+  ],
+  "claim": [
+    "kb7-fragment45 13088",
+    "kb7-fragment45 13086",
+    "a7w-fragment01 67"
+  ],
+  "limit": [
+    "a7w-fragment01 67"
+  ],
+  "deny": [
+    "a7w-fragment01 68"
+  ],
+  "publish": [
+    "a7w-fragment01 68"
+  ],
+  "remind": [
+    "a7w-fragment01 70"
+  ],
+  "assure": [
+    "a7w-fragment01 71"
+  ],
+  "assert": [
+    "a7w-fragment01 73",
+    "ecv-fragment05 1083"
+  ],
+  "discuss": [
+    "a7w-fragment01 73"
+  ],
+  "meeting": [
+    "a7t-fragment01 4"
+  ],
+  "bother": [
+    "a7t-fragment01 4"
+  ],
+  "move": [
+    "a7t-fragment01 5",
+    "kb7-fragment48 13409",
+    "bmw-fragment09 2704",
+    "clw-fragment01 9",
+    "clw-fragment01 41",
+    "cty-fragment03 497",
+    "a1u-fragment04 148",
+    "a5e-fragment06 198"
+  ],
+  "divide": [
+    "a7t-fragment01 41",
+    "a7t-fragment01 6"
+  ],
+  "base": [
+    "b17-fragment02 199",
+    "clw-fragment01 132",
+    "a7t-fragment01 36",
+    "a7t-fragment01 6",
+    "b17-fragment02 236",
+    "b17-fragment02 190",
+    "a5e-fragment06 166",
+    "ecv-fragment05 1089"
+  ],
+  "mimic": [
+    "a7t-fragment01 11"
+  ],
+  "flow": [
+    "a7t-fragment01 12"
+  ],
+  "view": [
+    "a1u-fragment04 92",
+    "a7t-fragment01 13"
+  ],
+  "grow": [
+    "bmw-fragment09 2668",
+    "a7t-fragment01 14",
+    "bmw-fragment09 2748"
+  ],
+  "bury": [
+    "a7t-fragment01 15"
+  ],
+  "catch": [
+    "bmw-fragment09 2547",
+    "faj-fragment17 1660",
+    "a7t-fragment01 16"
+  ],
+  "underline": [
+    "a1u-fragment04 76",
+    "a5e-fragment06 188",
+    "a7t-fragment01 18"
+  ],
+  "try": [
+    "bmw-fragment09 2793",
+    "clw-fragment01 137",
+    "a7t-fragment01 19"
+  ],
+  "bog": [
+    "a7t-fragment01 22"
+  ],
+  "attach": [
+    "a7t-fragment01 22"
+  ],
+  "force": [
+    "a7t-fragment01 24",
+    "a7t-fragment01 23",
+    "a1u-fragment04 124"
+  ],
+  "spar": [
+    "a7t-fragment01 25"
+  ],
+  "contain": [
+    "ecv-fragment05 1180",
+    "a7t-fragment01 26",
+    "b17-fragment02 174",
+    "cty-fragment03 520"
+  ],
+  "disguise": [
+    "a7t-fragment01 30"
+  ],
+  "surround": [
+    "a7t-fragment01 30"
+  ],
+  "pull": [
+    "a7t-fragment01 34",
+    "kbh-fragment04 388",
+    "a7t-fragment01 31"
+  ],
+  "concede": [
+    "a7t-fragment01 33"
+  ],
+  "include": [
+    "clw-fragment01 151",
+    "cty-fragment03 545",
+    "a7t-fragment01 33",
+    "cty-fragment03 467",
+    "clw-fragment01 140"
+  ],
+  "swallow": [
+    "a7t-fragment01 34"
+  ],
+  "prepare": [
+    "a7t-fragment01 35",
+    "cty-fragment03 469",
+    "faj-fragment17 1661"
+  ],
+  "stimulate": [
+    "a7t-fragment01 41"
+  ],
+  "sacrifice": [
+    "a7t-fragment01 42"
+  ],
+  "await": [
+    "ahe-fragment03 33",
+    "ahe-fragment03 40",
+    "a1u-fragment04 67"
+  ],
+  "greet": [
+    "ahe-fragment03 35"
+  ],
+  "remove": [
+    "ahe-fragment03 36",
+    "clw-fragment01 161",
+    "clw-fragment01 158",
+    "ecv-fragment05 1193"
+  ],
+  "select": [
+    "ahe-fragment03 43"
+  ],
+  "manage": [
+    "faj-fragment17 1706",
+    "ecv-fragment05 1212",
+    "ahe-fragment03 43",
+    "ecv-fragment05 1205"
+  ],
+  "likes": [
+    "ahe-fragment03 43"
+  ],
+  "think": [
+    "ahe-fragment03 43"
+  ],
+  "spend": [
+    "ahe-fragment03 44",
+    "kb7-fragment48 13364",
+    "faj-fragment17 2038",
+    "a1u-fragment04 69",
+    "bmw-fragment09 2642",
+    "clw-fragment01 124"
+  ],
+  "poison": [
+    "a1u-fragment04 55"
+  ],
+  "convince": [
+    "a1u-fragment04 61"
+  ],
+  "lay": [
+    "ccw-fragment04 2095",
+    "a1u-fragment04 103",
+    "a1u-fragment04 67"
+  ],
+  "deal": [
+    "a1u-fragment04 70",
+    "faj-fragment17 2026"
+  ],
+  "grind": [
+    "a1u-fragment04 71"
+  ],
+  "bind": [
+    "cty-fragment03 462",
+    "bmw-fragment09 2816",
+    "a1u-fragment04 75",
+    "ecv-fragment05 1078"
+  ],
+  "attract": [
+    "a1u-fragment04 76",
+    "clw-fragment01 23",
+    "clw-fragment01 78",
+    "clw-fragment01 71",
+    "clw-fragment01 69"
+  ],
+  "respond": [
+    "ecv-fragment05 1134",
+    "a1u-fragment04 81"
+  ],
+  "soothing": [
+    "a1u-fragment04 81"
+  ],
+  "admit": [
+    "ecv-fragment05 1057",
+    "cty-fragment03 559",
+    "bmw-fragment09 2769",
+    "cty-fragment03 492",
+    "clw-fragment01 130",
+    "a1u-fragment04 82",
+    "faj-fragment17 1941",
+    "clw-fragment01 131"
+  ],
+  "shut": [
+    "a1u-fragment04 87",
+    "a1u-fragment04 158",
+    "a1u-fragment04 156"
+  ],
+  "stretch": [
+    "a1u-fragment04 88",
+    "faj-fragment17 1734"
+  ],
+  "inject": [
+    "kb7-fragment48 13364",
+    "a1u-fragment04 88",
+    "kb7-fragment48 13361"
+  ],
+  "crack": [
+    "a1u-fragment04 89"
+  ],
+  "convert": [
+    "a1u-fragment04 96"
+  ],
+  "suck": [
+    "a1u-fragment04 104",
+    "bmw-fragment09 2770"
+  ],
+  "gaping": [
+    "a1u-fragment04 108"
+  ],
+  "lie": [
+    "a1u-fragment04 108"
+  ],
+  "acting": [
+    "a1u-fragment04 120"
+  ],
+  "clean": [
+    "a1u-fragment04 120",
+    "ccw-fragment04 2075",
+    "a1u-fragment04 124"
+  ],
+  "call": [
+    "a1u-fragment04 152",
+    "kb7-fragment31 11280",
+    "ecv-fragment05 1100",
+    "ecv-fragment05 1136",
+    "kb7-fragment31 11444",
+    "kb7-fragment31 11464",
+    "kb7-fragment31 11463",
+    "a1u-fragment04 123",
+    "b17-fragment02 193",
+    "kb7-fragment31 11466",
+    "kb7-fragment31 11443"
+  ],
+  "switch": [
+    "a1u-fragment04 124"
+  ],
+  "achieve": [
+    "a1u-fragment04 126",
+    "ecv-fragment05 1212"
+  ],
+  "remain": [
+    "a1u-fragment04 127",
+    "cty-fragment03 496"
+  ],
+  "react": [
+    "clw-fragment01 82",
+    "a1u-fragment04 138"
+  ],
+  "send": [
+    "a1u-fragment04 138"
+  ],
+  "wreathe": [
+    "a1u-fragment04 141"
+  ],
+  "wait": [
+    "a1u-fragment04 147",
+    "bmw-fragment09 2610"
+  ],
+  "roast": [
+    "a1u-fragment04 147"
+  ],
+  "dump": [
+    "a1u-fragment04 151"
+  ],
+  "settle": [
+    "a1u-fragment04 152"
+  ],
+  "spill": [
+    "a1u-fragment04 157"
+  ],
+  "regulate": [
+    "ahd-fragment06 49"
+  ],
+  "release": [
+    "ahd-fragment06 51",
+    "kb7-fragment31 11237"
+  ],
+  "involve": [
+    "ahd-fragment06 56",
+    "ahd-fragment06 53",
+    "ecv-fragment05 1197"
+  ],
+  "assist": [
+    "ahd-fragment06 53"
+  ],
+  "cake": [
+    "ahd-fragment06 54"
+  ],
+  "introduce": [
+    "ahd-fragment06 61",
+    "cty-fragment03 530"
+  ],
+  "tower": [
+    "a5e-fragment06 147"
+  ],
+  "stem": [
+    "clw-fragment01 31",
+    "clw-fragment01 29",
+    "a5e-fragment06 147"
+  ],
+  "stick": [
+    "a5e-fragment06 162"
+  ],
+  "uncover": [
+    "a5e-fragment06 170",
+    "b17-fragment02 179"
+  ],
+  "recall": [
+    "a5e-fragment06 171"
+  ],
+  "live": [
+    "a5e-fragment06 172"
+  ],
+  "pioneer": [
+    "a5e-fragment06 177"
+  ],
+  "invite": [
+    "a5e-fragment06 182"
+  ],
+  "regard": [
+    "clw-fragment01 64",
+    "a5e-fragment06 182"
+  ],
+  "nudge": [
+    "a5e-fragment06 182"
+  ],
+  "decorate": [
+    "a5e-fragment06 185"
+  ],
+  "shot": [
+    "a5e-fragment06 187"
+  ],
+  "camouflage": [
+    "a5e-fragment06 193"
+  ],
+  "manufacture": [
+    "a5e-fragment06 195"
+  ],
+  "name": [
+    "a5e-fragment06 195"
+  ],
+  "illustrate": [
+    "a5e-fragment06 199",
+    "b17-fragment02 194"
+  ],
+  "die": [
+    "a5e-fragment06 201",
+    "b17-fragment02 201"
+  ],
+  "save": [
+    "kb7-fragment31 11421",
+    "cty-fragment03 495",
+    "kb7-fragment31 11525",
+    "kb7-fragment31 11561",
+    "kb7-fragment31 11425",
+    "kbd-fragment21 7941"
+  ],
+  "pack": [
+    "kbd-fragment21 8015"
+  ],
+  "sort": [
+    "kbh-fragment04 405",
+    "kbh-fragment04 363",
+    "kbh-fragment04 369",
+    "kbd-fragment21 8033",
+    "kbh-fragment04 361",
+    "kbd-fragment21 8360"
+  ],
+  "steal": [
+    "kbd-fragment21 8133",
+    "bmw-fragment09 2827",
+    "bmw-fragment09 2826"
+  ],
+  "want": [
+    "kbd-fragment21 8164",
+    "kbh-fragment04 359",
+    "kbd-fragment21 8343"
+  ],
+  "treat": [
+    "kbd-fragment21 8191",
+    "kbd-fragment21 8193"
+  ],
+  "apply": [
+    "ecv-fragment05 1094",
+    "ecv-fragment05 1084",
+    "kbd-fragment21 8195"
+  ],
+  "finding": [
+    "kb7-fragment31 11256",
+    "kb7-fragment31 11255"
+  ],
+  "assemble": [
+    "kb7-fragment31 11261"
+  ],
+  "pop": [
+    "kb7-fragment31 11384",
+    "kb7-fragment45 13072",
+    "kb7-fragment31 11326",
+    "kb7-fragment31 11389"
+  ],
+  "struggle": [
+    "kb7-fragment31 11402"
+  ],
+  "feeling": [
+    "kb7-fragment31 11569"
+  ],
+  "sound": [
+    "kb7-fragment31 11575"
+  ],
+  "pass": [
+    "kbh-fragment04 353",
+    "kb7-fragment45 13181",
+    "kbh-fragment04 378"
+  ],
+  "fetch": [
+    "kbh-fragment04 371"
+  ],
+  "polish": [
+    "kbh-fragment04 375"
+  ],
+  "passing": [
+    "kbh-fragment04 379"
+  ],
+  "swing": [
+    "kbh-fragment04 384"
+  ],
+  "upsetting": [
+    "kbh-fragment04 421"
+  ],
+  "bounce": [
+    "kb7-fragment48 13368"
+  ],
+  "hang": [
+    "kb7-fragment48 13391",
+    "kb7-fragment45 13077"
+  ],
+  "cross": [
+    "kb7-fragment48 13393"
+  ],
+  "order": [
+    "kb7-fragment48 13403"
+  ],
+  "empty": [
+    "kb7-fragment48 13487"
+  ],
+  "stoop": [
+    "kb7-fragment48 13488"
+  ],
+  "rest": [
+    "kb7-fragment48 13491",
+    "ecv-fragment05 1122",
+    "cty-fragment03 505",
+    "ecv-fragment05 1088",
+    "ecv-fragment05 1212"
+  ],
+  "wash": [
+    "kb7-fragment48 13522"
+  ],
+  "bleed": [
+    "kb7-fragment48 13618"
+  ],
+  "shove": [
+    "kb7-fragment48 13664"
+  ],
+  "bet": [
+    "kb7-fragment45 13035"
+  ],
+  "know": [
+    "kb7-fragment45 13109",
+    "kb7-fragment45 13086",
+    "kb7-fragment45 13072",
+    "kb7-fragment45 13130"
+  ],
+  "fit": [
+    "ecv-fragment05 1161",
+    "kb7-fragment45 13146"
+  ],
+  "speak": [
+    "kb7-fragment45 13170",
+    "ecv-fragment05 1085"
+  ],
+  "kill": [
+    "kb7-fragment45 13181"
+  ],
+  "wipe": [
+    "kb7-fragment45 13190"
+  ],
+  "shine": [
+    "bmw-fragment09 2547"
+  ],
+  "line": [
+    "bmw-fragment09 2549"
+  ],
+  "groom": [
+    "bmw-fragment09 2551"
+  ],
+  "spot": [
+    "bmw-fragment09 2552"
+  ],
+  "eliminate": [
+    "cty-fragment03 475",
+    "bmw-fragment09 2554"
+  ],
+  "imitate": [
+    "bmw-fragment09 2555"
+  ],
+  "expand": [
+    "bmw-fragment09 2556"
+  ],
+  "supply": [
+    "bmw-fragment09 2557"
+  ],
+  "brim": [
+    "bmw-fragment09 2568"
+  ],
+  "tight": [
+    "bmw-fragment09 2573"
+  ],
+  "explode": [
+    "bmw-fragment09 2573"
+  ],
+  "revive": [
+    "bmw-fragment09 2574"
+  ],
+  "warm": [
+    "bmw-fragment09 2579"
+  ],
+  "swell": [
+    "bmw-fragment09 2585"
+  ],
+  "arise": [
+    "bmw-fragment09 2587"
+  ],
+  "jump": [
+    "bmw-fragment09 2600"
+  ],
+  "adhere": [
+    "bmw-fragment09 2612"
+  ],
+  "sweep": [
+    "ccw-fragment04 2040",
+    "bmw-fragment09 2617"
+  ],
+  "fade": [
+    "bmw-fragment09 2617"
+  ],
+  "dare": [
+    "bmw-fragment09 2617"
+  ],
+  "discover": [
+    "clw-fragment01 165",
+    "bmw-fragment09 2623"
+  ],
+  "breathe": [
+    "bmw-fragment09 2624",
+    "bmw-fragment09 2760"
+  ],
+  "suppress": [
+    "bmw-fragment09 2628"
+  ],
+  "practise": [
+    "bmw-fragment09 2630"
+  ],
+  "foot": [
+    "bmw-fragment09 2631"
+  ],
+  "hook": [
+    "bmw-fragment09 2633"
+  ],
+  "lend": [
+    "bmw-fragment09 2635"
+  ],
+  "modelling": [
+    "bmw-fragment09 2637"
+  ],
+  "root": [
+    "bmw-fragment09 2647"
+  ],
+  "worry": [
+    "bmw-fragment09 2833",
+    "bmw-fragment09 2656",
+    "faj-fragment17 1826",
+    "bmw-fragment09 2788"
+  ],
+  "catching": [
+    "bmw-fragment09 2663",
+    "bmw-fragment09 2795",
+    "faj-fragment17 2097"
+  ],
+  "offer": [
+    "clw-fragment01 63",
+    "clw-fragment01 65",
+    "clw-fragment01 59",
+    "cty-fragment03 459",
+    "bmw-fragment09 2668"
+  ],
+  "dawn": [
+    "bmw-fragment09 2684"
+  ],
+  "travel": [
+    "bmw-fragment09 2702"
+  ],
+  "owe": [
+    "bmw-fragment09 2708"
+  ],
+  "weaving": [
+    "bmw-fragment09 2724"
+  ],
+  "paint": [
+    "bmw-fragment09 2737"
+  ],
+  "contribute": [
+    "clw-fragment01 72",
+    "bmw-fragment09 2740"
+  ],
+  "dictate": [
+    "ecv-fragment05 1043",
+    "bmw-fragment09 2769"
+  ],
+  "enjoy": [
+    "bmw-fragment09 2771"
+  ],
+  "betrayed": [
+    "bmw-fragment09 2772"
+  ],
+  "determined": [
+    "b17-fragment02 210",
+    "bmw-fragment09 2777"
+  ],
+  "suit": [
+    "bmw-fragment09 2779",
+    "ecv-fragment05 1173"
+  ],
+  "perch": [
+    "bmw-fragment09 2793"
+  ],
+  "spew": [
+    "bmw-fragment09 2795"
+  ],
+  "related": [
+    "bmw-fragment09 2808"
+  ],
+  "ruin": [
+    "bmw-fragment09 2811"
+  ],
+  "copying": [
+    "bmw-fragment09 2828"
+  ],
+  "rid": [
+    "bmw-fragment09 2845"
+  ],
+  "model": [
+    "bmw-fragment09 2853"
+  ],
+  "drunk": [
+    "bmw-fragment09 2861"
+  ],
+  "beat": [
+    "ccw-fragment04 1991"
+  ],
+  "slice": [
+    "ccw-fragment04 1991"
+  ],
+  "attack": [
+    "ecv-fragment05 1211",
+    "ccw-fragment04 1993",
+    "ecv-fragment05 1088"
+  ],
+  "starve": [
+    "ccw-fragment04 2029",
+    "ccw-fragment04 1993"
+  ],
+  "retreat": [
+    "ccw-fragment04 1995",
+    "cty-fragment03 537"
+  ],
+  "verge": [
+    "ccw-fragment04 2007"
+  ],
+  "defeat": [
+    "ccw-fragment04 2008"
+  ],
+  "forbidden": [
+    "ccw-fragment04 2030"
+  ],
+  "hamper": [
+    "b17-fragment02 232",
+    "ccw-fragment04 2030"
+  ],
+  "produce": [
+    "cty-fragment03 476",
+    "cty-fragment03 546",
+    "cty-fragment03 511",
+    "clw-fragment01 30",
+    "cty-fragment03 508",
+    "b17-fragment02 229",
+    "clw-fragment01 29",
+    "cty-fragment03 481",
+    "cty-fragment03 482",
+    "cty-fragment03 530",
+    "ecv-fragment05 1055",
+    "ecv-fragment05 1154",
+    "cty-fragment03 486",
+    "ecv-fragment05 1212",
+    "ccw-fragment04 2036",
+    "cty-fragment03 496"
+  ],
+  "thrash": [
+    "ccw-fragment04 2050"
+  ],
+  "shake": [
+    "ccw-fragment04 2051"
+  ],
+  "stress": [
+    "b17-fragment02 234",
+    "b17-fragment02 220",
+    "b17-fragment02 246",
+    "ccw-fragment04 2052"
+  ],
+  "kick": [
+    "ccw-fragment04 2101",
+    "ccw-fragment04 2111"
+  ],
+  "gloss": [
+    "ccw-fragment04 2107"
+  ],
+  "spark": [
+    "ccw-fragment04 2108"
+  ],
+  "let": [
+    "ccw-fragment04 2115",
+    "ecv-fragment05 1112"
+  ],
+  "curling": [
+    "ccw-fragment04 2127"
+  ],
+  "magnify": [
+    "ccw-fragment04 2130"
+  ],
+  "sharpen": [
+    "ccw-fragment04 2130"
+  ],
+  "slide": [
+    "ccw-fragment04 2130"
+  ],
+  "shear": [
+    "ccw-fragment04 2130"
+  ],
+  "slit": [
+    "ccw-fragment04 2131"
+  ],
+  "star": [
+    "ccw-fragment04 2135"
+  ],
+  "lurch": [
+    "faj-fragment17 1646"
+  ],
+  "gather": [
+    "faj-fragment17 1647"
+  ],
+  "pause": [
+    "faj-fragment17 1648"
+  ],
+  "climb": [
+    "faj-fragment17 1649"
+  ],
+  "dip": [
+    "faj-fragment17 1661",
+    "faj-fragment17 1649"
+  ],
+  "accompany": [
+    "faj-fragment17 1723",
+    "cty-fragment03 562"
+  ],
+  "control": [
+    "faj-fragment17 1723",
+    "ecv-fragment05 1162",
+    "clw-fragment01 117"
+  ],
+  "weigh": [
+    "faj-fragment17 1774"
+  ],
+  "cock": [
+    "faj-fragment17 1776"
+  ],
+  "drying": [
+    "faj-fragment17 1777"
+  ],
+  "gulp": [
+    "faj-fragment17 1778"
+  ],
+  "compose": [
+    "faj-fragment17 1843"
+  ],
+  "descend": [
+    "faj-fragment17 1862"
+  ],
+  "vanish": [
+    "faj-fragment17 1957"
+  ],
+  "pour": [
+    "faj-fragment17 1957"
+  ],
+  "hop": [
+    "faj-fragment17 1958"
+  ],
+  "finish": [
+    "faj-fragment17 2134"
+  ],
+  "mixing": [
+    "b17-fragment02 173"
+  ],
+  "examine": [
+    "b17-fragment02 175"
+  ],
+  "attempt": [
+    "b17-fragment02 175"
+  ],
+  "embark": [
+    "b17-fragment02 176"
+  ],
+  "encompass": [
+    "b17-fragment02 179"
+  ],
+  "arch": [
+    "b17-fragment02 196"
+  ],
+  "handle": [
+    "b17-fragment02 196"
+  ],
+  "express": [
+    "clw-fragment01 25",
+    "b17-fragment02 201"
+  ],
+  "restrict": [
+    "b17-fragment02 203"
+  ],
+  "tougher": [
+    "b17-fragment02 204"
+  ],
+  "inherite": [
+    "b17-fragment02 207",
+    "b17-fragment02 236",
+    "b17-fragment02 212",
+    "b17-fragment02 217",
+    "b17-fragment02 221",
+    "b17-fragment02 238",
+    "b17-fragment02 210"
+  ],
+  "refer": [
+    "ecv-fragment05 1126",
+    "ecv-fragment05 1172",
+    "ecv-fragment05 1130",
+    "b17-fragment02 225"
+  ],
+  "indicate": [
+    "clw-fragment01 151",
+    "ecv-fragment05 1093",
+    "cty-fragment03 464",
+    "b17-fragment02 226",
+    "clw-fragment01 55"
+  ],
+  "explain": [
+    "clw-fragment01 77",
+    "b17-fragment02 228"
+  ],
+  "assess": [
+    "b17-fragment02 231"
+  ],
+  "link": [
+    "clw-fragment01 82",
+    "cty-fragment03 470",
+    "b17-fragment02 231"
+  ],
+  "conclude": [
+    "b17-fragment02 234"
+  ],
+  "appealing": [
+    "clw-fragment01 9",
+    "cty-fragment03 538"
+  ],
+  "arising": [
+    "clw-fragment01 11"
+  ],
+  "possess": [
+    "clw-fragment01 100",
+    "ecv-fragment05 1136",
+    "ecv-fragment05 1145",
+    "clw-fragment01 37"
+  ],
+  "shape": [
+    "clw-fragment01 45"
+  ],
+  "acquire": [
+    "clw-fragment01 56",
+    "clw-fragment01 54"
+  ],
+  "cling": [
+    "clw-fragment01 162",
+    "clw-fragment01 59"
+  ],
+  "win": [
+    "clw-fragment01 63"
+  ],
+  "reinforce": [
+    "clw-fragment01 119",
+    "clw-fragment01 66"
+  ],
+  "enter": [
+    "ecv-fragment05 1142",
+    "clw-fragment01 80",
+    "clw-fragment01 70",
+    "ecv-fragment05 1109",
+    "clw-fragment01 75",
+    "ecv-fragment05 1163"
+  ],
+  "choose": [
+    "ecv-fragment05 1149",
+    "clw-fragment01 74"
+  ],
+  "yield": [
+    "clw-fragment01 79",
+    "cty-fragment03 480"
+  ],
+  "reverse": [
+    "clw-fragment01 86"
+  ],
+  "meet": [
+    "clw-fragment01 144",
+    "clw-fragment01 164",
+    "clw-fragment01 91"
+  ],
+  "emphasize": [
+    "clw-fragment01 100"
+  ],
+  "preserve": [
+    "cty-fragment03 461",
+    "clw-fragment01 105"
+  ],
+  "advocate": [
+    "clw-fragment01 110"
+  ],
+  "recruit": [
+    "clw-fragment01 111"
+  ],
+  "address": [
+    "clw-fragment01 120"
+  ],
+  "investigate": [
+    "clw-fragment01 120"
+  ],
+  "collaborate": [
+    "clw-fragment01 121"
+  ],
+  "recognize": [
+    "cty-fragment03 491",
+    "clw-fragment01 124"
+  ],
+  "define": [
+    "ecv-fragment05 1057",
+    "ecv-fragment05 1059",
+    "cty-fragment03 554",
+    "clw-fragment01 129",
+    "clw-fragment01 161",
+    "ecv-fragment05 1042"
+  ],
+  "construct": [
+    "clw-fragment01 132",
+    "ecv-fragment05 1054"
+  ],
+  "locate": [
+    "clw-fragment01 133"
+  ],
+  "appeal": [
+    "clw-fragment01 134",
+    "clw-fragment01 160"
+  ],
+  "build": [
+    "clw-fragment01 151",
+    "ecv-fragment05 1060",
+    "clw-fragment01 137"
+  ],
+  "concentrate": [
+    "ecv-fragment05 1205",
+    "clw-fragment01 139"
+  ],
+  "tell": [
+    "ecv-fragment05 1132",
+    "clw-fragment01 144"
+  ],
+  "structure": [
+    "clw-fragment01 148"
+  ],
+  "overlap": [
+    "clw-fragment01 148"
+  ],
+  "approach": [
+    "clw-fragment01 149",
+    "ecv-fragment05 1107"
+  ],
+  "package": [
+    "clw-fragment01 160"
+  ],
+  "reconstruct": [
+    "clw-fragment01 160"
+  ],
+  "sustain": [
+    "clw-fragment01 162"
+  ],
+  "rule": [
+    "cty-fragment03 459"
+  ],
+  "appear": [
+    "ecv-fragment05 1107",
+    "ecv-fragment05 1043",
+    "cty-fragment03 521",
+    "cty-fragment03 460"
+  ],
+  "confront": [
+    "cty-fragment03 461",
+    "cty-fragment03 528"
+  ],
+  "survive": [
+    "cty-fragment03 462"
+  ],
+  "foster": [
+    "cty-fragment03 463"
+  ],
+  "mask": [
+    "cty-fragment03 463"
+  ],
+  "teach": [
+    "cty-fragment03 463"
+  ],
+  "unite": [
+    "cty-fragment03 464"
+  ],
+  "relocate": [
+    "cty-fragment03 464"
+  ],
+  "reconcile": [
+    "cty-fragment03 464"
+  ],
+  "transmit": [
+    "cty-fragment03 466"
+  ],
+  "articulate": [
+    "cty-fragment03 467",
+    "cty-fragment03 544"
+  ],
+  "retrieve": [
+    "cty-fragment03 468"
+  ],
+  "uniting": [
+    "cty-fragment03 478"
+  ],
+  "solve": [
+    "cty-fragment03 479"
+  ],
+  "answer": [
+    "cty-fragment03 479",
+    "cty-fragment03 480"
+  ],
+  "reveal": [
+    "cty-fragment03 481"
+  ],
+  "impose": [
+    "cty-fragment03 483"
+  ],
+  "understand": [
+    "cty-fragment03 491"
+  ],
+  "elude": [
+    "cty-fragment03 493"
+  ],
+  "combine": [
+    "cty-fragment03 494"
+  ],
+  "initiate": [
+    "cty-fragment03 496"
+  ],
+  "destroy": [
+    "cty-fragment03 517",
+    "cty-fragment03 498"
+  ],
+  "arrive": [
+    "cty-fragment03 501"
+  ],
+  "dispensing": [
+    "cty-fragment03 512"
+  ],
+  "derive": [
+    "cty-fragment03 513"
+  ],
+  "encounter": [
+    "cty-fragment03 516",
+    "cty-fragment03 518"
+  ],
+  "riddled": [
+    "cty-fragment03 521"
+  ],
+  "tear": [
+    "cty-fragment03 526"
+  ],
+  "discern": [
+    "cty-fragment03 529"
+  ],
+  "incarnate": [
+    "cty-fragment03 551",
+    "cty-fragment03 534",
+    "cty-fragment03 530"
+  ],
+  "beg": [
+    "cty-fragment03 533"
+  ],
+  "reproduce": [
+    "cty-fragment03 538"
+  ],
+  "realize": [
+    "cty-fragment03 546"
+  ],
+  "envelop": [
+    "cty-fragment03 551",
+    "cty-fragment03 553"
+  ],
+  "conceive": [
+    "cty-fragment03 554"
+  ],
+  "backtrack": [
+    "cty-fragment03 560"
+  ],
+  "announce": [
+    "cty-fragment03 561"
+  ],
+  "proceed": [
+    "cty-fragment03 561"
+  ],
+  "survey": [
+    "ecv-fragment05 1041"
+  ],
+  "value": [
+    "ecv-fragment05 1042",
+    "ecv-fragment05 1053"
+  ],
+  "disappear": [
+    "ecv-fragment05 1043"
+  ],
+  "occupy": [
+    "ecv-fragment05 1043"
+  ],
+  "prompt": [
+    "ecv-fragment05 1052"
+  ],
+  "role": [
+    "ecv-fragment05 1053"
+  ],
+  "strive": [
+    "ecv-fragment05 1054"
+  ],
+  "interact": [
+    "ecv-fragment05 1054"
+  ],
+  "direct": [
+    "ecv-fragment05 1162",
+    "ecv-fragment05 1056"
+  ],
+  "concerned": [
+    "ecv-fragment05 1061"
+  ],
+  "display": [
+    "ecv-fragment05 1061"
+  ],
+  "connect": [
+    "ecv-fragment05 1066"
+  ],
+  "dismiss": [
+    "ecv-fragment05 1067"
+  ],
+  "entail": [
+    "ecv-fragment05 1202",
+    "ecv-fragment05 1069"
+  ],
+  "distinguish": [
+    "ecv-fragment05 1202",
+    "ecv-fragment05 1079",
+    "ecv-fragment05 1135",
+    "ecv-fragment05 1152"
+  ],
+  "commit": [
+    "ecv-fragment05 1079"
+  ],
+  "embrace": [
+    "ecv-fragment05 1090"
+  ],
+  "endued": [
+    "ecv-fragment05 1115",
+    "ecv-fragment05 1100"
+  ],
+  "begin": [
+    "ecv-fragment05 1108"
+  ],
+  "cultivate": [
+    "ecv-fragment05 1110"
+  ],
+  "blame": [
+    "ecv-fragment05 1112"
+  ],
+  "mature": [
+    "ecv-fragment05 1117"
+  ],
+  "encapsulate": [
+    "ecv-fragment05 1120"
+  ],
+  "justify": [
+    "ecv-fragment05 1122"
+  ],
+  "exclude": [
+    "ecv-fragment05 1135"
+  ],
+  "recognise": [
+    "ecv-fragment05 1145"
+  ],
+  "write": [
+    "ecv-fragment05 1157"
+  ],
+  "notice": [
+    "ecv-fragment05 1158"
+  ],
+  "enlightened": [
+    "ecv-fragment05 1171"
+  ],
+  "suffer": [
+    "ecv-fragment05 1172"
+  ],
+  "exercise": [
+    "ecv-fragment05 1195",
+    "ecv-fragment05 1201",
+    "ecv-fragment05 1199"
+  ],
+  "tie": [
+    "ecv-fragment05 1214",
+    "ecv-fragment05 1206",
+    "ecv-fragment05 1215"
+  ],
+  "defend": [
+    "ecv-fragment05 1212"
+  ],
+  "interpret": [
+    "ecv-fragment05 1214"
+  ]
+}
